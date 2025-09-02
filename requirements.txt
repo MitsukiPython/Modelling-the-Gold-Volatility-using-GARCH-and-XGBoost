@@ -1,0 +1,8 @@
+numpy
+panda
+scipy
+matplotlib
+arch
+xgboost
+scikit-learn
+statsmodels
